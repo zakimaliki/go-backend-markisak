@@ -11,13 +11,13 @@ Sebelum menjalankan aplikasi ini, pastikan Anda telah menginstal:
 
 ## Instalasi
 
-1. Clone repositori ini:
+1. Clone repositori ini:  
    ```bash
-   git clone <URL_REPOSITORI>
-   cd <NAMA_FOLDER>
+   git clone https://github.com/zakimaliki/go-backend-markisak
+   cd go-backend-markisak
    ```
 
-2. Install dependensi yang diperlukan:
+2. Install dependensi yang diperlukan:  
    ```bash
    go mod tidy
    ```
@@ -28,17 +28,17 @@ Sebelum menjalankan aplikasi ini, pastikan Anda telah menginstal:
 
 Untuk menjalankan aplikasi, Anda dapat menggunakan perintah berikut:
 
-- Untuk menjalankan server:
+- Untuk menjalankan server:  
   ```bash
   go run main.go
   ```
 
-- Untuk menjalankan migrasi:
+- Untuk menjalankan migrasi:  
   ```bash
   go run main.go migrate
   ```
 
-- Untuk menjalankan seeder:
+- Untuk menjalankan seeder:  
   ```bash
   go run main.go seed
   ```
@@ -57,3 +57,7 @@ Jika Anda ingin berkontribusi pada proyek ini, silakan buat pull request atau bu
 ## Lisensi
 
 Proyek ini dilisensikan di bawah [MIT License](LICENSE).
+
+## About
+
+Proyek ini dapat diakses di [GitHub Repository](https://github.com/zakimaliki/go-backend-markisak).

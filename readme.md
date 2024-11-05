@@ -22,7 +22,7 @@ Sebelum menjalankan aplikasi ini, pastikan Anda telah menginstal:
    go mod tidy
    ```
 
-3. Buat file `.env` di direktori root proyek Anda dan tambahkan konfigurasi yang diperlukan untuk koneksi database.
+3. Buat file `.env` di direktori root proyek Anda dan tambahkan konfigurasi yang diperlukan untuk koneksi database
 
 ## Menjalankan Aplikasi
 
